@@ -98,7 +98,7 @@ header nav a {
 
 #Club-Info .container {
     grid-area: 1 / 2 / span 20 / span 18;
-    background-image: url(../Images/wallpaper.jpg);
+    background-image: url(./Images/wallpaper.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -261,7 +261,7 @@ header nav a {
     height: 40rem;
     display: grid;
     grid-template: repeat(20, 5%) / repeat(20, 5%);
-    background-image: url(../Images/bonsaiwallpaper.jpg);
+    background-image: url(./Images/bonsaiwallpaper.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
